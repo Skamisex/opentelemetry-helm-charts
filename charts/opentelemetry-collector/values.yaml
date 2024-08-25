@@ -181,7 +181,7 @@ imagePullSecrets: []
 
 # OpenTelemetry Collector executable
 command:
-  name: ""
+  name: "otelcol"
   extraArgs: []
 
 serviceAccount:
